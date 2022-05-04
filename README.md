@@ -4,4 +4,9 @@
 
 JPXコンペ参加決定
 
-2か月あるので絶対がんばる
+
+まずはこのdisuccusionで概要をつかむ
+
+> https://www.kaggle.com/code/chumajin/easy-to-understand-the-competition?scriptVersionId=94143164
+
+
