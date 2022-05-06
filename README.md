@@ -19,5 +19,7 @@ JPXコンペ参加決定
 
 
 >train_files/trades
+>
 >trades_specによると StartDateおよびEndDateは基本的に木曜日に記入されている。またその内容はその前週の取引開始日および終了日
+>
 >つまり、一周遅れのデータってこと？？？
