@@ -22,10 +22,8 @@ JPXコンペ参加決定
 >
 >trades_specによると StartDateおよびEndDateは基本的に木曜日に記入されている。またその内容はその前週の取引開始日および終了日
 >
->つまり、一周遅れのデータってこと？？？
+> → 前週の集計結果らしい(下訳)
 >
->tradesとstock_pricesがそれぞれ何を示しているか明確にする。(おそらくstock_pricesについてはある営業日(Date)におけるある銘柄の取引繊維dataだと思われる)
-
 
 
 ![image](https://user-images.githubusercontent.com/92427575/167085889-360b722e-6e89-44e3-b2f5-245eac23a745.png)
