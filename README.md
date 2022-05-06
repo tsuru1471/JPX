@@ -1,5 +1,42 @@
 # JPX
 
+# 目的、疑問等
+
+
+最終目的!!!
+
+> 対象範囲(22/7/5 ～ 22/10/7 ?)のすべてのcloseを予測し、rank付け
+
+> →　その順位に基づいて実際のcloseから得られるdaily_spread_returnの値を最大化するのが目的
+
+
+疑問!!!!!!!!
+
+1. sumple_predictionとは？
+
+> iter_testの返り値はおそらく example_test_files の６つのデータフレーム
+
+> → したがって sumple_predictionとはsample_subissionのことだろうが、現在 21/12/06 と21/12/07のみ。最終的にはここが対象範囲に一致するのか？
+
+> → 5月上旬に更新があるそうなので要確認
+
+2.  train_data は？
+
+> train_fiels + supplemental_fiels のstock_price.csvの和集合？
+
+> → こちらも更新がなくいまいちつかみきれない
+
+
+とりあえずやること
+
+1. tqdm
+
+2. 過去コンペから時系列(できれば同じ題材)の処理の仕方勉強
+
+> https://www.kaggle.com/competitions/jpx-tokyo-stock-exchange-prediction/discussion/317038
+
+
+
 # 5/04
 
 JPXコンペ参加決定
@@ -27,6 +64,16 @@ JPXコンペ参加決定
 
 
 ![image](https://user-images.githubusercontent.com/92427575/167085889-360b722e-6e89-44e3-b2f5-245eac23a745.png)
+
+
+
+
+
+
+
+
+
+
 
 
 # 株価基本知識
