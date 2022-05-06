@@ -25,3 +25,9 @@ JPXコンペ参加決定
 >つまり、一周遅れのデータってこと？？？
 >
 >tradesとstock_pricesがそれぞれ何を示しているか明確にする。(おそらくstock_pricesについてはある営業日(Date)におけるある銘柄の取引繊維dataだと思われる)
+
+
+
+![image](https://user-images.githubusercontent.com/92427575/167085889-360b722e-6e89-44e3-b2f5-245eac23a745.png)
+
+
