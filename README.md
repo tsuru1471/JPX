@@ -31,6 +31,8 @@
 
 1. tqdm
 
+> 5/07にて便利なイテレータ処理ライブラリであることを理解 
+
 2. 過去コンペから時系列(できれば同じ題材)の処理の仕方勉強
 
 > https://www.kaggle.com/competitions/jpx-tokyo-stock-exchange-prediction/discussion/317038
@@ -64,6 +66,10 @@ JPXコンペ参加決定
 
 
 ![image](https://user-images.githubusercontent.com/92427575/167085889-360b722e-6e89-44e3-b2f5-245eac23a745.png)
+
+
+
+# 5/07
 
 
 
