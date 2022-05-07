@@ -102,4 +102,7 @@ JPXコンペ参加決定
 
 > Volumeが増加すれば上昇、人気が停滞すると買い手が減るために下落　と考えるそう
 
+> ![image](https://user-images.githubusercontent.com/92427575/167252673-be91a1df-d67d-4def-b88f-5f87d2b4aabf.png)
+
+
 
