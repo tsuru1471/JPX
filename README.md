@@ -33,6 +33,7 @@
 
 > 5/07にて便利なイテレータ処理ライブラリであることを理解 
 
+
 2. 過去コンペから時系列(できれば同じ題材)の処理の仕方勉強
 
 > https://www.kaggle.com/competitions/jpx-tokyo-stock-exchange-prediction/discussion/317038
@@ -42,7 +43,6 @@
 # 5/04
 
 JPXコンペ参加決定
-
 
 まずはこのdisuccusionで概要をつかむ
 
