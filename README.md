@@ -35,7 +35,7 @@
 
 2. most vode EDAを見てデータ特性をつかむ
 
-3. base_model 深すぎる特徴量などはつくらず、basicな加工のみのlightgbm (+ NN アンサンブル) 
+3. base_model 深すぎる特徴量などはつくらず、basicな加工のみのlightgbm(NNアンサンブルもなし！！！
 
 4. 過去コンペから時系列(できれば同じ題材)の処理の仕方勉強
 
