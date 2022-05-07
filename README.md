@@ -33,8 +33,11 @@
 
 > 5/07にて便利なイテレータ処理ライブラリであることを理解 
 
+2. most vode EDAを見てデータ特性をつかむ
 
-2. 過去コンペから時系列(できれば同じ題材)の処理の仕方勉強
+3. base_model 深すぎる特徴量などはつくらず、basicな加工のみのlightgbm (+ NN アンサンブル) 
+
+4. 過去コンペから時系列(できれば同じ題材)の処理の仕方勉強
 
 > https://www.kaggle.com/competitions/jpx-tokyo-stock-exchange-prediction/discussion/317038
 
@@ -103,6 +106,13 @@ JPXコンペ参加決定
 > Volumeが増加すれば上昇、人気が停滞すると買い手が減るために下落　と考えるそう
 
 > ![image](https://user-images.githubusercontent.com/92427575/167252673-be91a1df-d67d-4def-b88f-5f87d2b4aabf.png)
+
+
+・時価総額
+
+> 上場株式　* 株価　で算出される値。企業の評価、価値を反映する。JPX/TOPIXではこれに浮動株(売買可能な市場に流通している株)比率を乗じる。
+
+
 
 
 
