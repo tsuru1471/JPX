@@ -97,11 +97,25 @@ JPXコンペ参加決定
 
 >stock_prices のcolumn 。0.1～20の値をとるため、浮動株比率ではなさそう。
 >
-> Used to calculate theoretical price/volume when split/reverse-split happens (NOT including dividend/allotment of shares).
+>　Used to calculate theoretical price/volume when split/reverse-split happens (NOT including dividend/allotment of shares).
 > 
 > 分割・併合時の理論株価・出来高の算出に使用（配当・増資は含まない）。
 >
-> ここから、分割時(例えば、1株→2株 にした際) に理論的には価値が減少(0.5倍) になったことを反映させるための係数なのだろう。
+> → ここから、分割時(例えば、1株→2株 にした際) に理論的には価値が減少(0.5倍) になったことを反映させるための係数なのだろう。
+
+# 5/08
+
+・expected divident(配当金)
+
+> ![Uploading image.png…]()
+>
+> ほぼnull。値があるなかでは0が多かった。最大値は1070
+>
+> アイデア) 普通に考えたら、null or 0 のやつが人気低いのでは？ こことcloseの相関調べよう
+>
+> 補足) 権利確定日を ex-dividend date , 権利落ち日を ex-light(s) date として定義してるっぽい
+
+
 
 
 # 株価基本知識
@@ -144,4 +158,9 @@ JPXコンペ参加決定
 > 分割の実例はたくさんあったが、併合は見つからずその意図がつかめないままである。reverse-split と名付けられていることからも分割がよく起こりうるのだろう。
 
 
+・配当(divident)を受け取るまでの流れ
+
+> 権利付最終日(権利確定日2営業日前)  →  権利落ち日(権利確定日1営業日前)  → 権利確定日/決算日
+>
+> その期の配当を受け取るためには権利付最終日までに株式を購入し、株主名簿に登録される必要がある。
 
