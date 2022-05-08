@@ -107,7 +107,7 @@ JPXコンペ参加決定
 
 ・expected divident(配当金)
 
-> ![Uploading image.png…]()
+>![image](https://user-images.githubusercontent.com/92427575/167304823-8e5b4684-88b8-46b8-ad50-2eb6fa63f71f.png)
 >
 > ほぼnull。値があるなかでは0が多かった。最大値は1070
 >
