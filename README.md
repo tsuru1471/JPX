@@ -147,11 +147,13 @@ JPXコンペ参加決定
 
 ・ OHLCVグラフの描画
 >
+> plotly.graph_objects にて、操作可能なohlc曲線が描画可能
+>
+> as go とすれば go.Candlestick()にOHLCとdatesの引数を入力すればok
+>
+> defaultでは非営業日が飛んでしまうが死ぬほどデータあるし気にならんためpass
 > 
->
->
-
-
+> ![image](https://user-images.githubusercontent.com/92427575/167652742-90afdbef-e31c-442e-b0de-0717cf351d92.png)
 
 
 
@@ -247,7 +249,7 @@ JPXコンペ参加決定
 
 ・OHLC(V)
 >
-> Open,High,Low,Close,(Volume)の総称
+> Open,High,Low,Close,(Volume)の総称、ローソク足チャート → candlestick とも呼ぶ
 >
 >![image](https://user-images.githubusercontent.com/92427575/167624090-ce687822-9096-40c1-a99e-b5dd982d7f4c.png)
 
