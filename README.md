@@ -141,7 +141,10 @@ JPXコンペ参加決定
 
 > ![image](https://user-images.githubusercontent.com/92427575/167619272-45098616-2d0c-4754-aab5-212b454c096d.png)
 >
-> 学習データ内での事件。1988株すべてのCloseがnanになっている。
+> 学習データ内での事件。1988株すべてのCloseがnanになっている。[
+>
+> ![image](https://user-images.githubusercontent.com/92427575/167619766-e57161df-9b5f-4afa-afb1-c5f02194559a.png)
+
 
 # 株価基本知識
 
