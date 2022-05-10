@@ -137,6 +137,11 @@ JPXコンペ参加決定
 
 
 
+・2020-10-01
+
+> ![image](https://user-images.githubusercontent.com/92427575/167619272-45098616-2d0c-4754-aab5-212b454c096d.png)
+>
+> 学習データ内での事件。1988株すべてのCloseがnanになっている。
 
 # 株価基本知識
 
