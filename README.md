@@ -145,6 +145,20 @@ JPXコンペ参加決定
 >
 > ![image](https://user-images.githubusercontent.com/92427575/167619766-e57161df-9b5f-4afa-afb1-c5f02194559a.png)
 
+・ OHLCVグラフの描画
+>
+> 
+>
+>
+
+
+
+
+
+
+
+
+
 
 # 株価基本知識
 
@@ -226,4 +240,12 @@ JPXコンペ参加決定
 
 ・市場分布 (22/04より)
 >![image](https://user-images.githubusercontent.com/92427575/167531918-bfcd8f15-0e4a-41cb-a933-4b3563200c58.png)
+
+
+・OHLC(V)
+>
+> Open,High,Low,Close,(Volume)の総称
+>
+>![image](https://user-images.githubusercontent.com/92427575/167624090-ce687822-9096-40c1-a99e-b5dd982d7f4c.png)
+
 
