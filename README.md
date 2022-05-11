@@ -160,8 +160,15 @@ JPXコンペ参加決定
 
 # 5/11
 
-・
-
+・ taegetは非正規分布(right-skewed,big kutosis distribution)
+>
+>![image](https://user-images.githubusercontent.com/92427575/167820011-46735d16-f573-4a98-9f09-46a9ea795a73.png)
+>
+> kurtosis: 尖度/分布のとがりを表す値。
+>
+> skewnesss : 歪度 / 分布の歪みを表す値。right/leftは平均値が最頻値のどちら側にあるかを示している。
+>
+> →右に裾が伸びるright分布をPositively,左に裾が伸びるleft分布をnegatively-skewed-destributionとも呼ぶ。
 
 
 
