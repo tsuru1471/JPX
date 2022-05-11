@@ -160,7 +160,9 @@ JPXコンペ参加決定
 
 # 5/11
 
-・ taegetは非正規分布(right-skewed,big kutosis distribution)
+・ taeget mean (同じ銘柄における全学習範囲に含まれるtargetの平均値、の分布)は非正規分布(right-skewed,big kutosis distribution)
+
+> ![Uploading image.png…]()
 >
 >![image](https://user-images.githubusercontent.com/92427575/167820011-46735d16-f573-4a98-9f09-46a9ea795a73.png)
 >
