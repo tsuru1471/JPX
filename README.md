@@ -176,6 +176,12 @@ JPXコンペ参加決定
 >
 > →右に裾が伸びるright分布をPositively,左に裾が伸びるleft分布をnegatively-skewed-destributionとも呼ぶ。
 
+・code 4169 : Enechange Ltd
+>
+> 最小データ株。targetの平均および分散が最大。
+
+
+
 
 
 # 株価基本知識
