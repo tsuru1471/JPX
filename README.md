@@ -199,6 +199,17 @@ JPXコンペ参加決定
 > 
 > → おそらくcloseがnanだった場合には、Targetの計算のために、その1営業日前の終値をその日の終値とみなす処理が行われていると考えられる。その証拠に20/09/29 のTargetは0.00である。また、20/09/30のTargetについてもこのように計算することでTargetと同じ値が得られることを確認した。
 
+・最大Target mean日 2018/12/25
+>
+> ![image](https://user-images.githubusercontent.com/92427575/167971706-17ad6f22-1229-4529-985e-7d635b878198.png)
+>
+> 拡大図
+>
+> ![image](https://user-images.githubusercontent.com/92427575/167971857-26adf92a-a751-419f-aa27-391184a90eb4.png)
+>
+> 25日以前までの下落が一変、26に上昇、27に急上昇している。
+>
+> この日の世界的なニュースといえば、
 
 
 
@@ -293,4 +304,7 @@ JPXコンペ参加決定
 >
 >![image](https://user-images.githubusercontent.com/92427575/167624090-ce687822-9096-40c1-a99e-b5dd982d7f4c.png)
 
+
+・反発/反落
+>![image](https://user-images.githubusercontent.com/92427575/167972839-ab4ab083-946c-4aff-849a-7bdbffbdb114.png)
 
