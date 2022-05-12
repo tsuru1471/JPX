@@ -200,6 +200,9 @@ JPXコンペ参加決定
 > → おそらくcloseがnanだった場合には、Targetの計算のために、その1営業日前の終値をその日の終値とみなす処理が行われていると考えられる。その証拠に20/09/29 のTargetは0.00である。また、20/09/30のTargetについてもこのように計算することでTargetと同じ値が得られることを確認した。
 
 ・最大Target mean日 2018/12/25
+> ![image](https://user-images.githubusercontent.com/92427575/167973538-9e85c13b-8582-4505-8cec-017325fc7161.png)
+>
+> close散布図
 >
 > ![image](https://user-images.githubusercontent.com/92427575/167971706-17ad6f22-1229-4529-985e-7d635b878198.png)
 >
@@ -213,6 +216,15 @@ JPXコンペ参加決定
 
 
 ・最大 Target std日 2020/03/17
+> ![image](https://user-images.githubusercontent.com/92427575/167973619-75978222-e8c0-4aaa-bf1f-9e20703ec8c2.png)
+>
+> close散布図
+>
+> ![image](https://user-images.githubusercontent.com/92427575/167973693-9c5a3e93-1664-4519-9a93-21ef77b99289.png)
+>
+> 拡大図
+>
+> ![image](https://user-images.githubusercontent.com/92427575/167971857-26adf92a-a751-419f-aa27-391184a90eb4.png)
 >
 > 
 
