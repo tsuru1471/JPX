@@ -202,7 +202,7 @@ JPXコンペ参加決定
 ・最大Target mean日 2018/12/25
 > ![image](https://user-images.githubusercontent.com/92427575/167973538-9e85c13b-8582-4505-8cec-017325fc7161.png)
 >
-> close散布図
+> close散布図(どの銘柄も終値平均に大きな差があるとTarget meanが大きくなるのでclose散布図が参考にできる)
 >
 > ![image](https://user-images.githubusercontent.com/92427575/167971706-17ad6f22-1229-4529-985e-7d635b878198.png)
 >
@@ -218,15 +218,18 @@ JPXコンペ参加決定
 ・最大 Target std日 2020/03/17
 > ![image](https://user-images.githubusercontent.com/92427575/167973619-75978222-e8c0-4aaa-bf1f-9e20703ec8c2.png)
 >
-> close散布図
+> ここらへんは、コロナ流行あたり
 >
-> ![image](https://user-images.githubusercontent.com/92427575/167973693-9c5a3e93-1664-4519-9a93-21ef77b99289.png)
+> ちなみにこのあたり(2022/03/16で Taget meanは最小値を取り、終値平均間差も22/03/05で最小値をとる。
 >
-> 拡大図
->
-> ![image](https://user-images.githubusercontent.com/92427575/167971857-26adf92a-a751-419f-aa27-391184a90eb4.png)
->
+> → 全体的に下落するのは理解できるが、なぜ分散最大？つまりコロナのブーストを受けていた銘柄(業種)があったということ？
 > 
+> そこを突き止めて、学習時に現在の脱コロナに影響しないようにしないといけないか？
+>
+> 注意!!
+> 
+> Target meanと違って、Target stdはある銘柄では終値に差があり、別の銘柄では差がほとんどないときに大きくなる。つまり単純な終値の日付グループの散布図は参考にできない)
+
 
 
 # 株価基本知識
