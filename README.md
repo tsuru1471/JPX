@@ -236,13 +236,13 @@ JPXコンペ参加決定
 
 # 5/14
 
-・Target と sharpe ratio
+・Target/dairy_spread_return と sharpe ratio
 >
-> Targetは終値変化率であり、上位および下位200件ずつの重み平均の差の全予測範囲における平均値を標準偏差で割ったもの。
+> Targetは終値変化率であり、daily_spred_returnは上位200件であると予測した銘柄のTarget重み平均と下位200件と予測した銘柄のTargetの重み平均の差である。
 >
 > sharpe ratioはポートフォリオのリターンを無リスク金利で引き、標準偏差で割ったものである。
 > 
-> 無リスク金利分が含まれていないものの、Targetはsharpe ratioと同じポートフォリオの優位度を表す指標として考えられ、提出する400件データのポートフォリオを評価するにふさわしいmetricとなっている。Evaliationではこういったことを言っているのだと思われる。
+> 全予測範囲におけるdaily_spread_returnの平均と標準偏差の比は、無リスク金利分が含まれていないものの、sharpe ratioと同じポートフォリオの優位度を表す指標として考えられる。Evaliationではこういったことを言っているのだと思われる。
 > 
 > ![image](https://user-images.githubusercontent.com/92427575/168318586-1982867c-6806-4828-a007-5282f6261fb4.png)
 
