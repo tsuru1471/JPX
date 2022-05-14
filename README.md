@@ -15,17 +15,22 @@
 1. sumple_predictionとは？
 
 > iter_testの返り値はおそらく example_test_files の６つのデータフレーム
-
+>
 > → したがって sumple_predictionとはsample_subissionのことだろうが、現在 21/12/06 と21/12/07のみ。最終的にはここが対象範囲に一致するのか？
-
+>
 > → 5月上旬に更新があるそうなので要確認
+> 
+> 5/14更新
+>
+> sample_submissionに2022/02/28までのデータが格納
 
 2.  train_data は？
-
+>
 > train_fiels + supplemental_fiels のstock_price.csvの和集合？
-
-> → こちらも更新がなくいまいちつかみきれない
-
+>
+> → 5/14 更新
+> 
+> supplemental_files/stock_pricesni2022/04/28までのデータが格納。
 
 とりあえずやること
 
@@ -272,12 +277,24 @@ JPXコンペ参加決定
 ・Stock_list
 >
 > seculities code と企業名が対応したtable。その他どの業種かなどのメタ的な情報が記載されている。
-> 
-
-
-
-
-
+>
+>> ・EffectiveDate
+>> 
+>> ![image](https://user-images.githubusercontent.com/92427575/168435717-411b612b-d3cb-466f-a245-fd7443ebfaf6.png)
+>>
+>> 主に20211230であるものが多く、20000101のものはすでに上場廃止しているもの、2022以降のものは最近上場したばかりの企業でsecondary_stock_pricesに含まれるものだと思われる。
+>>
+>> 権利発生日のことだと思うのだが、決算日が3/31と思われる企業でも12/30になっているし、3月や9月の日にちがないため別のものなのだろうか？よくわからない
+>>
+>>
+>> ・Section/Products
+>> 
+>> 東証のどの市場に属するのか。20224月の再編前の名前で登録されている。
+>>
+>>
+>>
+>>
+>> aaa
 
 
 # 株価基本知識
@@ -389,5 +406,6 @@ JPXコンペ参加決定
 > ![image](https://user-images.githubusercontent.com/92427575/168430199-cc163220-e405-434f-987c-ccd5188fe54b.png)
 
 
-
+・メモ
+ETFがよくわからない。日経平均に連動するのはわかるが、どうして上場してる？商品じゃないの？企業みたいやん。個人の客が安価で分散できる商品じゃないの？ETFの株価って何?
 
