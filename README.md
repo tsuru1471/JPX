@@ -269,6 +269,11 @@ JPXコンペ参加決定
 > https://news.yahoo.co.jp/articles/4a3be580e8c15f8a010c0a72c67abaf64e0763dd?page=2
 
 
+・Stock_list
+>
+> seculities code と企業名が対応したtable。その他どの業種かなどのメタ的な情報が記載されている。
+> 
+
 
 
 
@@ -375,4 +380,14 @@ JPXコンペ参加決定
 ・JPX / TOPIX
 >
 > TOPIXは日経平均と並ぶ、日本の2000株の相場を表す指標で、JPXは日本証券取引所のこと
+
+
+・投資信託
+>
+> 運用会社(～アセットマネジメント など)に投資をお任せするシステム
+>
+> ![image](https://user-images.githubusercontent.com/92427575/168430199-cc163220-e405-434f-987c-ccd5188fe54b.png)
+
+
+
 
