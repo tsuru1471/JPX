@@ -248,10 +248,25 @@ JPXコンペ参加決定
 
 
 
+# 5/15
 
-
-
-
+ロシア・ウクライナ情勢
+>
+> ロシアへの制裁として輸入規制が行われており、世界的に原油の需要があがっている。
+> 
+> それに伴い、TOPIXでも原油関連の企業の株価が上昇中
+> 
+> INPEX code 1605
+> 
+> ![image](https://user-images.githubusercontent.com/92427575/168423691-e53c0037-f6f0-408d-8c53-cfab186de90b.png)
+>
+> 日揮HD code 1963
+> 
+> ![image](https://user-images.githubusercontent.com/92427575/168423719-95e5f7da-3e86-49f6-a5b2-670f1413766f.png)
+> 
+> 参考)
+>
+> https://news.yahoo.co.jp/articles/4a3be580e8c15f8a010c0a72c67abaf64e0763dd?page=2
 
 
 
