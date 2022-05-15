@@ -365,37 +365,35 @@ JPXコンペ参加決定
 >>
 >> ![image](https://user-images.githubusercontent.com/92427575/168471979-9e607065-ad28-48a2-ab87-77923ea2ceab.png)
 >>
->> 銘柄は7種しかなく、Target_mean上位は日本郵船(9101)、川崎汽船(9107)、商船三井(9104)であった【すべてmid400)。圧倒的に低い最下位は飯野海運(9119)(small1)
+>> 銘柄は7種しかなく、Target_mean上位は日本郵船(9101)、川崎汽船(9107)、商船三井(9104)であった。(すべてmid400)。圧倒的に低い最下位は飯野海運(9119)(small1)
+>>
+>> ![image](https://user-images.githubusercontent.com/92427575/168472680-9b8ee818-d5fd-4f07-82cd-5c6b2750430f.png)
+>>
+>> 上位3銘柄のTarget遷移グラフ。酷似したグラフになっている。Targrtと業種は強い相関があるのでは？
+>> 
+>> 
+>> ・銀行業
+>>
+>> ![image](https://user-images.githubusercontent.com/92427575/168472807-b32b1ba8-db81-467a-b772-eb404ffb6468.png)
+>>
+>> Target_mean上位は京都銀行(8369)、新生銀行(8303)など(mid400)。また、Core30にも含まれるメガバンクの一つ三菱UFJ(8306)は負の値をとっており、Targetが時価総額だけでは測りきれないと考えられる。池田泉州HD(8714)、スルガ銀行(8358)がworst2(small1)。
+>> 
+>> ![image](https://user-images.githubusercontent.com/92427575/168474768-3c6f7eb1-3a72-4794-95b2-3bf181286ab2.png)
+>> 
+>> 下位3銘柄の遷移グラフ。近いといえば近い。
+>>
+>> ![image](https://user-images.githubusercontent.com/92427575/168474880-f0168d5f-faf0-4fc3-ae96-db71df906137.png)
+>>
+>> 試しに飯野海運(9119)を加えてみたが、これでも近い印象を受けるので、そこまで顕著な相関ではないのか？
+>>
+>>![image](https://user-images.githubusercontent.com/92427575/168475877-2f98094f-e296-4aa1-9aa0-837827f8ad10.png)
+>>
+>> 海運業、銀行業上位2銘柄をプロット。こうみると相関はありそうである。
 >>
 >>
->>
->>
->>
->>
->>
->>
->>
->>
->>
->>
->>
->>
->>
->>
->>
->>
->>
->>
->>
->>
->>
->>
->>
->>
->>
->>
->>
->> aaaa
+>> 補足) go.Scatterはx,yのサイズが違ってもエラーださないっぽい。2017年からの日付データをx、2020年上場のひろぎんHD(7337)のデータTargetをyにして描画すると以下のように2017年から描画されてしまう。
+>> 
+>>　![image](https://user-images.githubusercontent.com/92427575/168475185-16984a90-36c5-40e2-a743-e4ed1ee73bef.png)
 
 
 
