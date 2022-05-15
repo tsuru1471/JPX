@@ -239,7 +239,7 @@ JPXコンペ参加決定
 
 
 
-# 5/14
+# 5/13
 
 ・Target/dairy_spread_return と sharpe ratio
 >
@@ -253,7 +253,7 @@ JPXコンペ参加決定
 
 
 
-# 5/15
+# 5/14
 
 ロシア・ウクライナ情勢
 >
@@ -289,10 +289,17 @@ JPXコンペ参加決定
 >>
 >> ・Section/Products
 >> 
->> 東証のどの市場に属するのか。20224月の再編前の名前で登録されている。
+>> 東証のどの市場に属するのか。20224月の再編前の名前で登録されている。またETFはETFs/ETNsにて分類
 >>
+>> ![image](https://user-images.githubusercontent.com/92427575/168463267-c5341ff6-28f7-41cc-923d-9b487e3602aa.png)
 >>
+>> stock_pricesに含まれる銘柄がどの市場に分類されるのか調査
 >>
+>> ![image](https://user-images.githubusercontent.com/92427575/168462046-2d8bc8ca-9199-46be-a7f5-5b90ce205997.png)
+>>
+>>  etfは含まれていない模様
+>>
+>> 
 >>
 >> aaa
 
