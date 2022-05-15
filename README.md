@@ -343,6 +343,64 @@ JPXコンペ参加決定
 >> 
 >> ![image](https://user-images.githubusercontent.com/92427575/168467723-671567f5-b374-487d-8490-433ddb55fee4.png)
  
+ 
+ # 5/15
+ 
+ ・stock_prices2000銘柄のTOPIX-17シリーズはこのような割合
+ >
+ > ![image](https://user-images.githubusercontent.com/92427575/168469637-6f76d84f-5f4c-4cf3-bede-0222df4fd4af.png)
+
+・業種別の分析
+>
+> ![image](https://user-images.githubusercontent.com/92427575/168470713-36ee2f62-782a-427c-a8cb-d695c3b58ad6.png)
+>
+> 33セクターでグルーピングしたTarget_mean値は海運業、情報・通信、電気機器が高く、 ゴム製品、電気・ガス業、水産・農林業、運送用機器が低く中でも銀行業のみが負値をとっている。
+>
+> ![image](https://user-images.githubusercontent.com/92427575/168471000-e2ca9fd6-9388-4f50-a11d-90b514cf6826.png)
+>
+> target_std値は、情報・通信、サービス、医薬(pharmaceutical)が高く、陸運業、食料品、水産・農林業が低い。
+>
+>
+>> ・海運業
+>>
+>> ![image](https://user-images.githubusercontent.com/92427575/168471979-9e607065-ad28-48a2-ab87-77923ea2ceab.png)
+>>
+>> 銘柄は7種しかなく、Target_mean上位は日本郵船(9101)、川崎汽船(9107)、商船三井(9104)であった【すべてmid400)。圧倒的に低い最下位は飯野海運(9119)(small1)
+>>
+>>
+>>
+>>
+>>
+>>
+>>
+>>
+>>
+>>
+>>
+>>
+>>
+>>
+>>
+>>
+>>
+>>
+>>
+>>
+>>
+>>
+>>
+>>
+>>
+>>
+>>
+>>
+>>
+>> aaaa
+
+
+
+
+
 
 # 株価基本知識
 
