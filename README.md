@@ -299,7 +299,31 @@ JPXコンペ参加決定
 >>
 >>  etfは含まれていない模様
 >>
+>> ・NewMarketSegment 20224月以降の市場区分。ETFはnanである。
+>>
+>> ![image](https://user-images.githubusercontent.com/92427575/168464930-1ca2d866-c4c0-452e-a5f5-958dcdb59862.png)
 >> 
+>> stock_pricesに含まれる2000株のほとんどはプライム市場である模様
+>>
+>> ・sector(33 & 17)
+>>  
+>> TOPIX-17シリーズ。TOPIX銘柄の業種区分のこと。
+>>
+>> ![image](https://user-images.githubusercontent.com/92427575/168465070-cde668f2-54e1-40b7-aa7d-ab5e8ca90bf6.png)
+>>
+>>  https://www.jpx.co.jp/markets/indices/line-up/files/fac_13_sector.pdf
+>>
+>> ・NewIndexSeries
+>>
+>> ![image](https://user-images.githubusercontent.com/92427575/168465913-7740b3f4-9547-4162-845f-6f0b65aedb44.png)
+>>
+>> ![image](https://user-images.githubusercontent.com/92427575/168465924-d22fe239-1029-4653-9ca0-613ae0229247.png)
+>>
+>> https://www.jpx.co.jp/markets/indices/line-up/files/fac_12_size.pdf
+>>
+>> 分類されていない銘柄が2000ほどあり、df_pricesにも含まれている
+>>
+>> ![image](https://user-images.githubusercontent.com/92427575/168466262-304baae2-1eec-44cd-b3a0-9de84eb390d5.png)
 >>
 >> aaa
 
