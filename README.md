@@ -325,8 +325,24 @@ JPXコンペ参加決定
 >>
 >> ![image](https://user-images.githubusercontent.com/92427575/168466262-304baae2-1eec-44cd-b3a0-9de84eb390d5.png)
 >>
->> aaa
-
+>> ・TradeDate/Close
+>>
+>> 時価総額：MarketCapitalizeation を計算するためのものらしい。当然だがsupplemental_dataを見に行ったら、"2021-12-30"の終値と一致していた。
+>>
+>> ・MarketCapitalizeation
+>>
+>> CloseとIssuedSharesの乗算結果に一致。浮動株比率をかけてはいないっぽいね。
+>> 
+>> ・universe0
+>>
+>> ![image](https://user-images.githubusercontent.com/92427575/168467130-65751a08-a898-493c-a87d-2819831d38c3.png)
+>>
+>> falgが立っている銘柄は、df_pricesの銘柄と一致。
+>>
+>> しかし単純な時価総額上位2000銘柄というわけではなかった。
+>> 
+>> ![image](https://user-images.githubusercontent.com/92427575/168467723-671567f5-b374-487d-8490-433ddb55fee4.png)
+ 
 
 # 株価基本知識
 
