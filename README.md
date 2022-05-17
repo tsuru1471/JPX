@@ -427,7 +427,15 @@ JPXコンペ参加決定
 >>
 >> 先物、オプション取引識別コード。該当構成(先物or現物、限月など)を表す9桁からなる。
 >>
+>> ・Date
+>>
+>> stock_pricesと同じ。
+>>
 >> https://www.jpx.co.jp/sicc/securities-code/nlsgeu0000032d48-att/(HP)sakimono20220208.pdf
+>>
+>> 指数(下2桁)は全て18で、これは日経平均株価（日経225）を表す。(上url参照)
+>> 
+>> ![image](https://user-images.githubusercontent.com/92427575/168740174-07de65ae-a5b4-4035-b2aa-c59c31d50e89.png)
 >>
 >> ・TradingVolume
 >>
@@ -443,6 +451,12 @@ JPXコンペ参加決定
 >>
 >> ![image](https://user-images.githubusercontent.com/92427575/168726550-d905fe03-963d-46f2-b108-0241dbc38af9.png)
 >>
+>> ちなみに2桁目の種類を見るためにヒストグラム見ると、やはりすべて現物(spot)のコード番号だった。
+>>
+>> ![image](https://user-images.githubusercontent.com/92427575/168739731-44059927-e449-4953-9b65-5222fe73311f.png)
+>>
+>>
+>>
 >> 
 >> ・BaseVolatility/ImpliedVolatility
 >>
@@ -452,7 +466,22 @@ JPXコンペ参加決定
 >> ・Dividend rate/Dividend
 >> 
 >> Dividendは全て0.0だった。しかしDividend rateは値を持っている。
->>　
+>>
+>>
+>> ・権利行使価格 : StrikePrice
+>>
+>> ![image](https://user-images.githubusercontent.com/92427575/168746692-bf5285e9-637f-4f26-90e2-e35681f49e6e.png)
+>>
+>> 20000.20125から250刻みだった。
+>>
+>> ![image](https://user-images.githubusercontent.com/92427575/168750463-9cdd372e-de91-45f4-b131-718f9a305187.png)
+>>
+>> 上2,3番桁とOptionsCode下4,3番桁が一致。
+>>
+>> ![image](https://user-images.githubusercontent.com/92427575/168750873-85e91e5f-d3b4-405e-b554-fbec09beb779.png)
+
+
+
 
 
 
@@ -608,3 +637,9 @@ JPXコンペ参加決定
 >> implied volatility 
 >>
 >> 統計的に予測した将来のvolatility
+
+
+・権利行使価格 : Strike price
+>
+>
+>
