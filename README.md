@@ -481,7 +481,7 @@ JPXコンペ参加決定
 >> ![image](https://user-images.githubusercontent.com/92427575/168750873-85e91e5f-d3b4-405e-b554-fbec09beb779.png)
 
 
-
+→ 日経225先物のデータであるが、これがどうやって、stock_pricesの予測に役立てられるのか？
 
 
 
